@@ -1,0 +1,63 @@
+
+button {
+    background-color: #33cc33;
+}
+
+img.navImg {
+    margin: auto;
+    display: block;
+}
+
+div.navBar {
+    text-align: center;
+}
+
+/* 
+img {
+   
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    
+} */
+
+.navbar td {
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+    padding: 20px;
+    
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greenbox table {
+   margin-top: 50px;
+    height: 500px;
+    width: 100%;
+    background-color: #33cc33;
+
+}
+
+.greenbox td {
+    color: white;
+    text-align: center;
+    
+   
+    
+}
+
+.videoTable  {
+    width: auto;
+    margin-right: 0px;
+    margin-left: auto;
+}
