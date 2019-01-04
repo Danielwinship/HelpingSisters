@@ -3,16 +3,9 @@ button {
     background-color: #33cc33;
 }
 
-img.navImg {
-    margin: auto;
-    display: block;
-}
-
-div.navBar {
-    text-align: center;
-}
 
 /* 
+
 img {
    
     display: block;
@@ -20,7 +13,7 @@ img {
   margin-right: auto;
   
     
-} */
+}
 
 .navbar td {
     padding: 10px;
@@ -60,4 +53,4 @@ table.center {
     width: auto;
     margin-right: 0px;
     margin-left: auto;
-}
+} */
