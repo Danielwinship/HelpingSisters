@@ -1,4 +1,19 @@
 
+.topBar {
+    background-color:#ff99ce;
+    text-align: center;
+    color: white;
+}
+
+.fa-phone-volume {
+    padding-right: 20px;
+    padding-top: 10px
+}
+
+.fa-dollar-sign {
+    padding-top: 10px
+}
+
 button {
     background-color: #33cc33;
 }
@@ -9,8 +24,7 @@ button {
 } */
 
 .imgCenter {
-   height: 200px;
-   width: 200px;
+   
    margin: auto;
 }
 
