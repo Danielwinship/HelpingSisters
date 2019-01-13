@@ -35,3 +35,8 @@ button {
 img.size {
     height: 500px;
 }
+
+div.sectionPink {
+    background-color: #ff99ce;
+    color: #ffffff;
+}
