@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color:black;
+}
+
+
+
+.active {
+ background-color: black;
+ color: pink;
+}
+
+.navbar {
+  background-color: pink;
+  
+}
+
+.navbar-brand {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.navbar-container  {
+  display: flex;
+ justify-content: center;
+}
+
+.navbar-container li {
+  list-style: none;
+  flex: 1;
+  text-align: center;
+  font-size: 1.2rem;
+  
+}
+
+.main-img {
+  height: 600px;
+  background: url('../img/main.jpg') no-repeat center center/cover;
+}
+
+.main-img h1 {
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+}
