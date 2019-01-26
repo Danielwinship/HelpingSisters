@@ -22,14 +22,12 @@ a {
 .navbar {
   background-color: #fff;
   display: flex;
-  justify-content: space-between;
 }
 
 .navbar-brand {
   display: block;
-  padding: 2rem 5rem;
+  width: 16%;
   background: url("../img/THS_logo_BLK.jpg") no-repeat center center/cover;
-  margin-left: 3rem;
   
 }
 
@@ -60,6 +58,5 @@ a {
 .main-img  {
   height: 50vh;
   background: url('../img/main.jpg') no-repeat center center/cover;
-  opacity: .7;
 }
 
