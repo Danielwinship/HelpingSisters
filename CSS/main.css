@@ -20,14 +20,15 @@ a {
 /* Navbar */
 .navbar {
   display: flex;
-  justify-content: space-around;
-  
+  justify-content: space-between;
 }
 
 .navbar-brand {
   background: url("../img/THS_logo_BLK.jpg") no-repeat center center/cover;
   height: 100px;
   width: 250px;
+  padding: 0.75rem;
+  margin: 0 0.75rem;
 }
 
 .navbar ul {
@@ -36,29 +37,14 @@ a {
   align-items: center;
 }
 
-.nav-link a {
+.navbar ul .nav-link a {
  padding: 0.75rem;
- margin: .25rem;
- 
- 
-
-  
+ margin: 0 0.75rem;
 }
 
-/* .navbar-container li {
-  list-style: none;
-  font-size: 1.2rem;
-} */
-
-/* .navbar-container .nav-link a {
-  display: block;
-  height: 100%;
-} */
-
-.nav-link:hover, .active{
+.nav-link a:hover{
   background-color: #ffccf2;
   border-radius: 5px;
-  
 }
 
 /* Main Image */
