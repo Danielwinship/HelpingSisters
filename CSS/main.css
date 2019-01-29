@@ -50,7 +50,26 @@ a {
 /* Main Image */
 
 .main-img  {
-  height: 50vh;
+  height: 100vh;
   background: url('../img/main.jpg') no-repeat center center/cover;
 }
+
+.main-img .main-img-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:#fff;
+  height: 100%;
+  text-align: center;
+  line-height: 2;
+  /* Overlay */
+  background: rgba(0, 0, 0, .4);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 100px;
+}
+
 
