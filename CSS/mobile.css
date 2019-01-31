@@ -15,7 +15,7 @@
 /* Section: About Us */
 #about .container .item {
   flex-direction: column;
-  text-align: center;
+  text-align: center!important;
   
 }
 
