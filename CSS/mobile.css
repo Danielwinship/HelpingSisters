@@ -15,4 +15,10 @@
 /* Section: About Us */
 #about .container .item {
   flex-direction: column;
+  text-align: center;
+  
+}
+
+#about .container .item .item-image img {
+  margin-bottom: 1rem!important;
 }
