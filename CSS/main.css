@@ -31,12 +31,6 @@ a {
   background: #ff99e6;
 }
 
-/* Navbar */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-}
-
 .text-center {
   text-align: center
 }
@@ -49,6 +43,12 @@ a {
 
 .container {
   display: flex;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
 }
 
 .navbar-brand {
@@ -76,7 +76,6 @@ a {
 }
 
 /* Main Image */
-
 .main-img  {
   height: 100vh;
   background: url('../img/main.jpg') no-repeat center center/cover;

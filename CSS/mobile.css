@@ -2,3 +2,10 @@
   flex-direction: column;
   
 }
+
+.navbar .navbar-brand,
+.navbar .nav-link
+{
+  margin: auto;
+
+}
