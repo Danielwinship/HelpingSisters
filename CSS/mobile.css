@@ -12,13 +12,29 @@
 
 }
 
+/* Section: Main */
+
+.main-img .main-img-content {
+
+}
+.main-img .main-img-content h1 {
+  font-size: 2rem;
+  margin-top: -10rem;
+  margin-bottom: 3rem;
+}
+
+.main-img .main-img-content p {
+  font-size: 1rem;
+  margin-bottom: 3rem;
+}
+
 /* Section: About Us */
 #about .container .item {
   flex-direction: column;
-  text-align: center!important;
+  text-align: center;
   
 }
 
 #about .container .item .item-image img {
-  margin-bottom: 1rem!important;
+  margin-bottom: 1rem;
 }

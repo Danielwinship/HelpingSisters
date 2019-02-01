@@ -92,7 +92,7 @@ a {
   color:#fff;
   height: 100%;
   text-align: center;
-  line-height: 2;
+  line-height: 1.8;
   /* Overlay */
   background: rgba(0, 0, 0, .4);
   /* Might not need */
@@ -101,6 +101,10 @@ a {
   right: 0;
   bottom: 0;
   top: 100px; */
+}
+
+.main-img .main-img-content h1 {
+  font-size: 3rem;
 }
 
 .main-img .main-img-content p {
