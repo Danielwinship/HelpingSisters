@@ -15,7 +15,7 @@
 /* Section: Main */
 
 .main-img .main-img-content {
-
+  line-height: 1.2;
 }
 .main-img .main-img-content h1 {
   font-size: 2rem;
