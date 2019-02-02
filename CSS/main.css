@@ -146,3 +146,53 @@ a {
 
 
 /* Section: Contact */
+#contact .container {
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+#contact .container .contact-form {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-evenly;
+  
+}
+
+#contact .btn {
+  width: 100%;
+  border:none;
+}
+
+#contact .container .contact-form p,
+#contact .container .contact-form h3 {
+ padding-left: 1rem;
+}
+
+#contact .container .contact-form form p{
+  padding: 1rem;
+}
+
+
+#contact .contact-form input,
+#contact .contact-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+#contact .container .contact-img {
+  width: 50vh;
+  height: 50vh;
+  background: url('../img/contactimage.jpg') no-repeat center center/cover;
+  border-radius: 5px;
+  
+}
+
+
+/* Footer */
+footer p {
+  border-top: #000 dotted 1px;
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
