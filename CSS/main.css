@@ -159,9 +159,11 @@ a {
   
 }
 
-#contact .btn {
+#contact button {
   width: 100%;
   border:none;
+  background: #ffccf2;
+  padding: 0.5rem 0;
 }
 
 #contact .container .contact-form p,
