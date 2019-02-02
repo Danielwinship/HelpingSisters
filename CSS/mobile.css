@@ -37,3 +37,9 @@
 #about .container .item .item-image img {
   margin-bottom: 1rem;
 }
+
+
+/* Section: Contact */
+#contact .container .contact-img {
+  display: none;
+}
